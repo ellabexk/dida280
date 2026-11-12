@@ -1,0 +1,61 @@
+@font-face {
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/arial.ttf");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: bold;
+	src: url("../font/GOUDOSB.TTF");
+}
+@font-face {
+	font-family: "Goudy Old Style";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/GOUDOS.TTF");
+}
+.Base {
+font-family:Arial, sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:1.0em;
+hyphens:none;
+}
+
+.head_one {
+font-family:"Goudy Old Style", serif;
+font-weight:bold;
+font-size:2.5em;
+text-align:center;
+line-height:2em;
+}
+
+.Heading_3 {
+font-weight:normal;
+font-size:1.666667em;
+margin-top:0;
+}
+
+.Body {
+font-family:"Goudy Old Style", serif;
+font-size:1.5em;
+line-height:1em;
+margin-top:1em;
+}
+
+
+h1.Base.head_one {
+    text-align: center;
+}
+
+p.Base.Body {
+    text-align: center;
+}
+
+p.Base.Body {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+

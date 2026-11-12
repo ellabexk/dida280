@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="pub-id" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:identifier id="pub-id">urn:uuid:54914D93-2E23-4638-98AA-CBB8C9DB40A2</dc:identifier>
+<dc:title>redWheel_poem</dc:title>
+<dc:date>2026-11-10T21:14:25Z</dc:date>
+<meta property="dcterms:modified">2026-11-10T21:14:25Z</meta>
+<meta property="rendition:layout">reflowable</meta>
+<meta property="rendition:flow">paginated</meta>
+<meta name="generator" content="Affinity 3.3.3.5004 Win32 (Oct 30 2026)"/>
+<dc:language>en-US</dc:language>
+<meta property="ibooks:specified-fonts">true</meta>
+</metadata>
+<manifest>
+<item id="Story1" href="Story1.xhtml" media-type="application/xhtml+xml"/>
+<item id="styles" href="css/styles.css" media-type="text/css"/>
+<item id="images" href="css/images.css" media-type="text/css"/>
+<item id="arial.ttf" href="font/arial.ttf" media-type="application/font-sfnt"/>
+<item id="GOUDOSB.TTF" href="font/GOUDOSB.TTF" media-type="application/font-sfnt"/>
+<item id="GOUDOS.TTF" href="font/GOUDOS.TTF" media-type="application/font-sfnt"/>
+<item id="image_1" href="images/Image.png" media-type="image/png"/>
+<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+</manifest>
+<spine>
+<itemref idref="Story1"/>
+</spine>
+</package>
