@@ -50,6 +50,9 @@ margin-top:1em;
 margin-top:0;
 }
 
+body {
+    text-align: center;
+}
 
 h1.Base.head_one {
     text-align: center;
@@ -57,10 +60,11 @@ h1.Base.head_one {
 
 p.Base.Body {
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
 }
 
-
-p.Base.Body {
-    margin-top: 0;
-    margin-bottom: 10px;
+img {
+    display: block;
+    margin: 0 auto;
 }

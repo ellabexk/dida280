@@ -25,20 +25,28 @@ line-height:2em;
 margin-top:1em;
 }
 
-.FireAndIce {
-margin-left: auto;
-margin-right: auto;
-max-width: fit-content;
+body {
+    text-align: center;
 }
 
-.NothingGoldCanStay {
-margin-left: auto;
-margin-right: auto;
-max-width: fit-content;
+h1.Base.head_one {
+    text-align: center;
 }
 
-.PoemContainer {
-margin-left: auto;
-margin-right: auto;
-max-width: fit-content;
+p.Base.Body {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+stanza.Base.Body {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }

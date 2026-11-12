@@ -45,6 +45,9 @@ line-height:1em;
 margin-top:1em;
 }
 
+body {
+    text-align: center;
+}
 
 h1.Base.head_one {
     text-align: center;
@@ -52,10 +55,11 @@ h1.Base.head_one {
 
 p.Base.Body {
     text-align: center;
-}
-
-p.Base.Body {
     margin-top: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
+img {
+    display: block;
+    margin: 0 auto;
+}
